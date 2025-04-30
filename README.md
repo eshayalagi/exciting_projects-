@@ -35,6 +35,11 @@ Responds to voice commands, performs tasks like web searches, setting reminders,
 - `plyer`, `time`, `PyPDF2`
 - `speech_recognition`, `pyttsx3`
 
+
+
+connect me :
+github link=https://github.com/eshayalagi/exciting_projects-.git
+
 ---
 
 
